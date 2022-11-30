@@ -1,2 +1,2 @@
-1. My second readme
-2. Congratulations
+My second readme
+Congratulations
